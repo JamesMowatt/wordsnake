@@ -1,0 +1,12 @@
+{
+    "name": "jmowatt/tina",
+    "require": {
+        "symfony/var-dumper": "^3.0"
+    },
+    "authors": [
+        {
+            "name": "James Mowatt",
+            "email": "james.mowatt@opia-sp.com"
+        }
+    ]
+}
